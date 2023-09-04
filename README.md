@@ -1,2 +1,4 @@
 # ECE2300J_2023_summer
-上海交通大学密西根学院ECE2300J课程
+Course ECE2300J Electromagnetics of Joint Institute of Shanghai Jiao Tong University
+
+Please follow the Honor Code and don't copy my works.
